@@ -1,6 +1,6 @@
 # Nutridetect: Comprehensive Food Detection and Classification Platform  
 <div>
-  <img src="/images/FoodVision.png" alt="FoodVision" />
+  <img src="/Images/NutriDetect.png" alt="Nutridetect" />
 </div>
 
 ## 🍴 Overview  
@@ -13,16 +13,17 @@ FoodVision is an advanced platform designed to detect and classify food items fr
 - **Nutrition Insights**: Offers detailed nutritional content for detected food items.  
 
 ## 👥 Research Team  
-- **Your Name** - Project Lead  
+- **Thirupathi kadari** - Project Lead
+- **Sayed Raheel Hussain** - Research Contributor 
 - **Tushar Sinha** - Visionary and Advisor  
-- **Collaborators** - Contributions to dataset preparation and model testing  
+  
 
 ## 🛠 Technical Architecture  
 
 ### Model Details  
 - Models: YOLOv8, Faster R-CNN (under evaluation)  
-- Framework: PyTorch and TensorFlow  
-- Dataset: Custom dataset with labeled bounding boxes for over 100+ food categories  
+- Framework: PyTorch 
+- Dataset: UECFOOD dataset with labeled bounding boxes for over 100+ food categories 
 - Deployment: Cloud-optimized and mobile-compatible  
 
 ### Application Features  
@@ -33,10 +34,10 @@ FoodVision is an advanced platform designed to detect and classify food items fr
 
 ## 📊 Performance Metrics  
 [Note: To be updated after final model evaluation]  
-- Precision: XX%  
-- Recall: XX%  
-- mAP@50: XX%  
-- mAP@50-95: XX%  
+- Precision: 0.645%  
+- Recall: 0.62%  
+- mAP@50: 0.745%  
+- mAP@50-95: 0.701%  
 
 ## 🍽 Dataset Creation  
 FoodVision's dataset is built using:  
