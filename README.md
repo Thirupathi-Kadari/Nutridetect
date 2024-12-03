@@ -1,4 +1,4 @@
-# Nutridetect: Comprehensive Food Detection and Classification Platform  
+# Nutridetect: Food Detection and Nutritional Insights 
 <div>
   <img src="/Images/NutriDetect.png" alt="Nutridetect" />
 </div>
