@@ -6,6 +6,9 @@
 </div>
 
 ---
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NutriDetect-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Thirupathi986/Nutridetect)
+
+---
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Thirupathi-Kadari/Nutridetect?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/Thirupathi-Kadari/Nutridetect?style=social)
@@ -28,9 +31,10 @@
 7. [Why NutriDetect?](#-why-nutridetect)
 8. [Application Screenshots](#-application-screenshots)
 9. [Next Steps](#-next-steps)
-10. [Contributing](#-contributing)
-11. [Contact](#-contact)
-12. [License](#-license)
+10. [Hugging Face Space](#-hugging-face-space)
+11. [Contributing](#-contributing)
+12. [Contact](#-contact)
+13. [License](#-license)
 
 ---
 
@@ -135,6 +139,19 @@ NutriDetect aims to scale into a complete ecosystem with the following features:
 1. Calorie tracking for dietary management  
 2. Recipe suggestions based on detected food items  
 3. Integration with health apps and devices  
+
+---
+## 🤗 Hugging Face Space  
+
+NutriDetect is live on Hugging Face! Try out the application directly in your browser:  
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NutriDetect-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Thirupathi986/Nutridetect)  
+
+Visit the Hugging Face Space to:  
+- Upload your food images and get real-time predictions.  
+- View bounding boxes and detailed nutritional insights.  
+
+Click the button above or [here](https://huggingface.co/spaces/Thirupathi986/Nutridetect) to explore!  
 
 ---
 
