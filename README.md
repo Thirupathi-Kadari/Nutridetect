@@ -51,13 +51,40 @@ You can find the dataset in the following locations:
 3. Create a user-friendly application for real-world use.  
 
 ## 📱 Application Screenshots  
+
+### Home Page  
 <div>
-  <img src="/images/App1.png" alt="NutriDetectApp" />
+  <img src="./Images/Home_page.png" alt="Home Page" width="700">
 </div>
 
+### Description Page  
 <div>
-  <img src="/images/App2.png" alt="NutriDetectApp2" />
+  <img src="./Images/Description_page.png" alt="Description Page" width="700">
 </div>
+
+### Try Models Page  
+<div>
+  <img src="./Images/Try_models.png" alt="Try Models Page" width="700">
+</div>
+## 🍔 Food Detection Examples  
+
+### Detection Images  
+1. **Single Food Item**  
+<div>
+  <img src="./Images/Prediction_1.png" alt="Single Food Detection" width="700">
+</div>
+
+2. **Multiple Food Items**  
+<div>
+  <img src="./Images/Prediction_2.png" alt="Multiple Food Detection" width="700">
+</div>
+
+### Nutritional Insights  
+**Detailed Nutritional Content Example:**  
+<div>
+  <img src="./Images/Nutritional_content.png" alt="Nutritional Content" width="700">
+</div>
+
 
 ## 🔗 Next Steps  
 NutriDetect aims to scale into a complete ecosystem with the following features:  
