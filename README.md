@@ -32,12 +32,13 @@ FoodVision is an advanced platform designed to detect and classify food items fr
 3. Real-time prediction capability  
 4. API-ready for easy integration with other platforms  
 
+
 ## 📊 Performance Metrics  
-[Note: To be updated after final model evaluation]  
-- Precision: 0.645%  
-- Recall: 0.62%  
-- mAP@50: 0.745%  
-- mAP@50-95: 0.701%  
+
+| Model    | Image Size | Epochs | mAP@0.5 | mAP@0.5:0.95 |
+|----------|------------|--------|---------|--------------|
+| YOLOv8m  | 640x640    | 26     | 0.652   | 0.507        |
+| YOLO11m  | 640x640    | 48     | 0.758   | 0.601        | 
 
 ## 🍽 Dataset Creation  
 FoodVision's dataset is built using:  
