@@ -4,11 +4,11 @@
 </div>
 
 ## 🍴 Overview  
-NutriDetect is an advanced platform designed to detect and classify food items from diverse cuisines, including American, Indian, Chinese, and Mexican. Leveraging cutting-edge machine learning models, it provides real-time object detection, classification, and nutritional insights, aiming to redefine food recognition technology.
+NutriDetect is an advanced platform designed to detect and classify food items from diverse cuisines. Leveraging cutting-edge machine learning models, it provides real-time object detection, classification, and nutritional insights, aiming to redefine food recognition technology.
 
 ## 🔬 Key Features  
 - **Diverse Dataset**: Includes images of food items from popular cuisines and restaurant chains. Expanding to cover global culinary diversity.  
-- **State-of-the-Art Models**: Experimenting with YOLO and Faster R-CNN to identify the optimal model for accuracy and efficiency.  
+- **State-of-the-Art Models**: Experimenting with YOLO to identify the optimal model for accuracy and efficiency.  
 - **User-Centric Design**: Designed for easy integration with mobile and web applications for real-time use.  
 - **Nutrition Insights**: Offers detailed nutritional content for detected food items.  
 
@@ -21,7 +21,7 @@ NutriDetect is an advanced platform designed to detect and classify food items f
 ## 🛠 Technical Architecture  
 
 ### Model Details  
-- Models: YOLOv8, Faster R-CNN (under evaluation)  
+- Models: YOLOv8m, Yolo11m  
 - Framework: PyTorch 
 - Dataset: UECFOOD dataset with labeled bounding boxes for over 250+ food categories 
 - Deployment: Cloud-optimized and mobile-compatible  
@@ -68,7 +68,7 @@ You can find the dataset in the following locations:
 </div>
 
 
-### 🍔 Food Detection Examples  
+### 🍔 Sample Results 
 
 
 <div>
