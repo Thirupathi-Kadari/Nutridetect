@@ -1,4 +1,4 @@
-# Nutridetect: Food Detection and Nutritional Insights 
+# NutriDetect: Food Detection and Nutritional Insights 
 <div>
   <img src="/Images/NutriDetect.png" alt="Nutridetect" />
 </div>
