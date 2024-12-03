@@ -21,7 +21,7 @@ NutriDetect is an advanced platform designed to detect and classify food items f
 ## 🛠 Technical Architecture  
 
 ### Model Details  
-- Models: YOLOv8m, Yolo11m  
+- Models: YOLOv8m, YOLO11m  
 - Framework: PyTorch 
 - Dataset: UECFOOD dataset with labeled bounding boxes for over 250+ food categories 
 - Deployment: Cloud-optimized and mobile-compatible  
