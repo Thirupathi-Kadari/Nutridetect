@@ -66,15 +66,15 @@ You can find the dataset in the following locations:
 <div>
   <img src="./Images/Try_models.png" alt="Try Models Page" width="700">
 </div>
-## 🍔 Food Detection Examples  
 
-### Detection Images  
-1. **Single Food Item**  
+
+### 🍔 Food Detection Examples  
+
+
 <div>
   <img src="./Images/Prediction_1.png" alt="Single Food Detection" width="700">
 </div>
 
-2. **Multiple Food Items**  
 <div>
   <img src="./Images/Prediction_2.png" alt="Multiple Food Detection" width="700">
 </div>
