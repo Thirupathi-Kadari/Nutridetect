@@ -28,10 +28,9 @@
 7. [Why NutriDetect?](#-why-nutridetect)
 8. [Application Screenshots](#-application-screenshots)
 9. [Next Steps](#-next-steps)
-10. [Video Demo](#-video-demo)
-11. [Contributing](#-contributing)
-12. [Contact](#-contact)
-13. [License](#-license)
+10. [Contributing](#-contributing)
+11. [Contact](#-contact)
+12. [License](#-license)
 
 ---
 
@@ -139,11 +138,6 @@ NutriDetect aims to scale into a complete ecosystem with the following features:
 
 ---
 
-## 📽️ Video Demo  
-Watch NutriDetect in action: [YouTube Demo](https://youtube.com/your-demo-link)  
-
----
-
 ## 🤝 Contributing  
 We welcome contributions! Here's how you can get involved:  
 1. Fork the repository.  
@@ -166,7 +160,3 @@ Have questions or want to collaborate? Reach out to us:
 [License information to be added]  
 
 ---
-
-## Badges  
- 
-![Stars](https://img.shields.io/github/stars/your-repo/NutriDetect?style=social)  
