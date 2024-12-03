@@ -1,30 +1,58 @@
-# 🍔🍟 NutriDetect: Food Detection and Nutritional Insights 🍞🍕
+# 🍔🍟 NutriDetect: Food Detection and Nutritional Insights 🍞🍕  
+**"Your gateway to smarter food recognition and health insights!"**
+
 <div>
-  <img src="/Images/NutriDetect.png" alt="Nutridetect" />
+  <img src="/Images/NutriDetect.png" alt="NutriDetect" />
 </div>
+
+---
+
+## 📚 Table of Contents
+1. [Overview](#-overview)
+2. [Key Features](#-key-features)
+3. [Research Team](#-research-team)
+4. [Technical Architecture](#-technical-architecture)
+    - [Model Details](#model-details)
+    - [Application Features](#application-features)
+5. [Performance Metrics](#-performance-metrics)
+6. [Dataset](#-dataset)
+7. [Why NutriDetect?](#-why-nutridetect)
+8. [Application Screenshots](#-application-screenshots)
+9. [Next Steps](#-next-steps)
+10. [Video Demo](#-video-demo)
+11. [Contributing](#-contributing)
+12. [Contact](#-contact)
+13. [License](#-license)
+
+---
 
 ## 🍴 Overview  
 NutriDetect is an advanced platform designed to detect and classify food items from diverse cuisines. Leveraging cutting-edge machine learning models, it provides real-time object detection, classification, and nutritional insights, aiming to redefine food recognition technology.
 
+---
+
 ## 🔬 Key Features  
-- **Diverse Dataset**: Includes images of food items from popular cuisines and restaurant chains. Expanding to cover global culinary diversity.  
-- **State-of-the-Art Models**: Experimenting with YOLO to identify the optimal model for accuracy and efficiency.  
-- **User-Centric Design**: Designed for easy integration with mobile and web applications for real-time use.  
-- **Nutrition Insights**: Offers detailed nutritional content for detected food items.  
+- ✅ **Diverse Dataset**: Images from global cuisines and restaurant chains.  
+- ✅ **State-of-the-Art Models**: Leveraging [YOLO](https://docs.ultralytics.com/) for precision and speed.  
+- ✅ **User-Centric Design**: Mobile and web-friendly for real-time detection.  
+- ✅ **Nutrition Insights**: Accurate nutritional content for detected items.  
+
+---
 
 ## 👥 Research Team  
-- **Thirupathi kadari** - Project Lead
-- **Sayed Raheel Hussain** - Research Contributor 
+- **Thirupathi Kadari** - Project Lead  
+- **Syed Raheel Hussain** - Research Contributor  
 - **Tushar Sinha** - Visionary and Advisor  
-  
+
+---
 
 ## 🛠 Technical Architecture  
 
 ### Model Details  
-- Models: YOLOv8m, YOLO11m  
-- Framework: PyTorch 
-- Dataset: UECFOOD dataset with labeled bounding boxes for over 250+ food categories 
-- Deployment: Cloud-optimized and mobile-compatible  
+- **Models**: YOLOv8m, YOLO11m  
+- **Framework**: [PyTorch](https://pytorch.org/)  
+- **Dataset**: [UECFOOD dataset](https://drive.google.com/drive/folders/14rJclN97hZqe6bmGkTjnvPaDBBIF4v5w) with labeled bounding boxes for over 250+ food categories  
+- **Deployment**: Cloud-optimized and mobile-compatible  
 
 ### Application Features  
 1. Multi-class object detection and classification  
@@ -32,23 +60,29 @@ NutriDetect is an advanced platform designed to detect and classify food items f
 3. Real-time prediction capability  
 4. API-ready for easy integration with other platforms  
 
+---
 
 ## 📊 Performance Metrics  
 
-| Model    | Image Size | Epochs | mAP@0.5 | mAP@0.5:0.95 |
-|----------|------------|--------|---------|--------------|
-| YOLOv8m  | 640x640    | 26     | 0.652   | 0.507        |
-| YOLO11m  | 640x640    | 48     | 0.758   | 0.601        | 
+| Model    | Image Size | Epochs | **mAP@0.5** | **mAP@0.5:0.95** |
+|----------|------------|--------|-------------|------------------|
+| YOLOv8m  | 640x640    | 26     | 🟢 0.652    | 🟠 0.507         |
+| YOLO11m  | 640x640    | 48     | 🟢 0.758    | 🟠 0.601         |
 
-## 🍽 Dataset
-You can find the dataset in the following locations:
+---
+
+## 🍽 Dataset  
+You can find the dataset in the following locations:  
 - [Google Drive](https://drive.google.com/drive/folders/14rJclN97hZqe6bmGkTjnvPaDBBIF4v5w)
-  
 
-## 🎯 Goals  
-1. Train and fine-tune the best-performing model on a large, diverse food dataset.  
-2. Integrate nutritional insights for detected food items.  
-3. Create a user-friendly application for real-world use.  
+---
+
+## 🤔 Why NutriDetect?  
+- 🌟 **Innovative Features**: Combines food detection with nutritional insights.  
+- 🌍 **Global Appeal**: Expanding to include a diverse range of cuisines.  
+- 💡 **Future-Oriented**: Plans to integrate with health apps and dietary tools.  
+
+---
 
 ## 📱 Application Screenshots  
 
@@ -67,16 +101,17 @@ You can find the dataset in the following locations:
   <img src="./Images/Try_models.png" alt="Try Models Page" >
 </div>
 
+### 🍔 Sample Results  
 
-### 🍔 Sample Results 
-
-
-<div>
-  <img src="./Images/Prediction_1.png" alt="Single Food Detection" >
-</div>
-
+**Single Food Detection:**  
 <div>
   <img src="./Images/Prediction_2.png" alt="Multiple Food Detection" >
+  
+</div>
+
+**Multiple Food Detection:**  
+<div>
+  <img src="./Images/Prediction_1.png" alt="Single Food Detection" >
 </div>
 
 ### Nutritional Insights  
@@ -85,24 +120,45 @@ You can find the dataset in the following locations:
   <img src="./Images/Nutritional_content.png" alt="Nutritional Content">
 </div>
 
+---
 
 ## 🔗 Next Steps  
 NutriDetect aims to scale into a complete ecosystem with the following features:  
 1. Calorie tracking for dietary management  
 2. Recipe suggestions based on detected food items  
-3. Integration with health apps and devices 
+3. Integration with health apps and devices  
 
-## 📄 Citations  
+---
 
+## 📽️ Video Demo  
+Watch NutriDetect in action: [YouTube Demo](https://youtube.com/your-demo-link)  
+
+---
 
 ## 🤝 Contributing  
-We welcome contributions from the research and developer community. Please read our contributing guidelines before submitting pull requests.
+We welcome contributions! Here's how you can get involved:  
+1. Fork the repository.  
+2. Create a new branch: `git checkout -b feature/your-feature`.  
+3. Commit your changes: `git commit -m 'Add some feature'`.  
+4. Push to the branch: `git push origin feature/your-feature`.  
+5. Submit a pull request.  
+
+---
 
 ## 📫 Contact  
-For collaboration inquiries, please contact:  
-- **Thirupathi Kadari**
-- **Syed Raheel hussain**
-- **Tushar Sinha**  
+Have questions or want to collaborate? Reach out to us:  
+- 📧 **Thirupathi Kadari**: [Email](mailto:thirupathi.kadari986@gmail.com)  
+- 📧 **Syed Raheel Hussain**: [Email](mailto:Sayedraheel1995@gmail.com)  
+- 📧 **Tushar Sinha**: [Email](mailto:tsr@justsync.ai)  
+
+---
 
 ## 📃 License  
-[License information to be added]
+[License information to be added]  
+
+---
+
+## Badges  
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+![Contributors](https://img.shields.io/github/contributors/your-repo/NutriDetect)  
+![Stars](https://img.shields.io/github/stars/your-repo/NutriDetect?style=social)  
