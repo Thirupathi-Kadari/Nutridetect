@@ -7,6 +7,15 @@
 
 ---
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Thirupathi-Kadari/Nutridetect?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Thirupathi-Kadari/Nutridetect?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/Thirupathi-Kadari/Nutridetect)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Thirupathi-Kadari/Nutridetect)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+![Contributors](https://img.shields.io/github/contributors/Thirupathi-Kadari/NutriDetect) 
+
+---
+
 ## 📚 Table of Contents
 1. [Overview](#-overview)
 2. [Key Features](#-key-features)
@@ -159,6 +168,5 @@ Have questions or want to collaborate? Reach out to us:
 ---
 
 ## Badges  
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Contributors](https://img.shields.io/github/contributors/your-repo/NutriDetect)  
+ 
 ![Stars](https://img.shields.io/github/stars/your-repo/NutriDetect?style=social)  
