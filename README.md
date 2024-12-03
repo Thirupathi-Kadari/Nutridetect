@@ -39,7 +39,7 @@
 ---
 
 ## 🍴 Overview  
-NutriDetect is an advanced platform designed to detect and classify food items from diverse cuisines. Leveraging cutting-edge machine learning models, it provides real-time object detection, classification, and nutritional insights, aiming to redefine food recognition technology.
+NutriDetect is an advanced platform designed to detect and classify food items from diverse cuisines. It’s live on [Hugging Face](https://huggingface.co/spaces/Thirupathi986/Nutridetect), offering real-time object detection, classification, and nutritional insights.
 
 ---
 
@@ -47,7 +47,8 @@ NutriDetect is an advanced platform designed to detect and classify food items f
 - ✅ **Diverse Dataset**: Images from global cuisines and restaurant chains.  
 - ✅ **State-of-the-Art Models**: Leveraging [YOLO](https://docs.ultralytics.com/) for precision and speed.  
 - ✅ **User-Centric Design**: Mobile and web-friendly for real-time detection.  
-- ✅ **Nutrition Insights**: Accurate nutritional content for detected items.  
+- ✅ **Nutrition Insights**: Accurate nutritional content for detected items.
+-  ✅ **Interactive Demo**: Try NutriDetect live on [Hugging Face](https://huggingface.co/spaces/Thirupathi986/Nutridetect). 
 
 ---
 
