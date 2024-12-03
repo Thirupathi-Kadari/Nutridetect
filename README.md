@@ -54,17 +54,17 @@ You can find the dataset in the following locations:
 
 ### Home Page  
 <div>
-  <img src="./Images/Home_page.png" alt="Home Page" width="700">
+  <img src="./Images/Home_page.png" alt="Home Page" >
 </div>
 
 ### Description Page  
 <div>
-  <img src="./Images/Description_page.png" alt="Description Page" width="700">
+  <img src="./Images/Description_page.png" alt="Description Page" >
 </div>
 
 ### Try Models Page  
 <div>
-  <img src="./Images/Try_models.png" alt="Try Models Page" width="700">
+  <img src="./Images/Try_models.png" alt="Try Models Page" >
 </div>
 
 
@@ -72,17 +72,17 @@ You can find the dataset in the following locations:
 
 
 <div>
-  <img src="./Images/Prediction_1.png" alt="Single Food Detection" width="700">
+  <img src="./Images/Prediction_1.png" alt="Single Food Detection" >
 </div>
 
 <div>
-  <img src="./Images/Prediction_2.png" alt="Multiple Food Detection" width="700">
+  <img src="./Images/Prediction_2.png" alt="Multiple Food Detection" >
 </div>
 
 ### Nutritional Insights  
 **Detailed Nutritional Content Example:**  
 <div>
-  <img src="./Images/Nutritional_content.png" alt="Nutritional Content" width="700">
+  <img src="./Images/Nutritional_content.png" alt="Nutritional Content">
 </div>
 
 
